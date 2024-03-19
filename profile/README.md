@@ -2,7 +2,7 @@
 ![unypkg-GitHub-banner-1](https://github.com/unypkg/.github/assets/19753510/1d888db3-2ac6-4226-84d4-ab30831163e8)
 
 # unypkg
-## universal, simple and classical linux package manager
+## Universal, simple and classical Linux package manager
 
 A native toolchain is boostrapped based on Linux From Scratch in a prefix folder: https://github.com/unypkg/base
 

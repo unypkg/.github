@@ -3,7 +3,8 @@
 
 # unypkg
 ## Universal, simple and classical Linux package manager
+### A package manager without complication whenever possible
 
 A native toolchain is boostrapped based on Linux From Scratch in a prefix folder: https://github.com/unypkg/base
 
-The package manager can be used with the CLI script: https://github.com/unypkg/unypkg
+The package manager script itself: https://github.com/unypkg/unypkg
